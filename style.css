@@ -1,0 +1,80 @@
+
+body {
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Signika', sans-serif;
+    background-color: black;
+
+}
+.peace img{
+    height: 200px;
+
+
+}
+.card-deck {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: center;
+    padding-bottom: 10px;
+    justify-content: space-between;
+    margin: 40px;
+    
+}
+.card-1 img{
+    height: 540px;
+    width: 620px;
+
+}
+.card-3 img{
+    height: 540px;
+    width: 620px;
+    margin-left: 10px;
+}
+
+.card-2 img{
+    height: 540px;
+    width: 570px;
+    margin-left: 10px;
+}
+.brief-text p{
+    text-align: center;
+    font-weight: lighter;
+    font-size: larger;
+    color: whitesmoke;
+}
+.pilgrims {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+   
+}
+
+.card-deck2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: center;
+    padding-bottom: 10px;
+    justify-content: space-between;
+    margin: 40px;
+}
+.card-deck2 img{
+    height: 450px;
+    width: 570px;
+}
+
+#card2{
+    padding-left: 20px;
+}
+#card1{
+    padding-left: 300px;
+}
+#card1 img{
+    height: 190px;
+}
+#card3 img{
+    padding-right: 300px;
+    height: 190px;
+}
+#card2 img{
+    padding-left: 120px;
+    height: 190px;
+}
+
